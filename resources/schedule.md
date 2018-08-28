@@ -8,7 +8,7 @@
 
 | Week   | Date         | Reading         |                   Topic             	  | Slides      | Homework  	      | 
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
-| 1      | 08.27        |                 | Discrete Intro. / Binary Intro.           | [TW](https://drive.google.com/open?id=1gvUkU1Y1TRee5I2ZOeRxo4J4KPZh3eL5)/RC            |                 |	
+| 1      | 08.27        |                 | Discrete Intro. / Binary Intro.           | [TW](https://drive.google.com/open?id=1gvUkU1Y1TRee5I2ZOeRxo4J4KPZh3eL5)/[RC](https://drive.google.com/file/d/1zAVo6_2Z26mD7VA5EdCU_fwjaIk6iFVc/view?usp=sharing)            |                 |	
 |        | 08.29        |                 | Binary Arithmetic                         |	[TW](https://drive.google.com/open?id=1pCiHEY3pwp_VLGzIkwMtxRGGZBrt65Kw)/RC, [nb](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jldq753k1xnc5)            |                 |	
 |        | 08.31        | 1.1             | Propositional Logic                       |	            |                 |	
 | 2      | 09.03        |                 | **Labor Day - No Class**                  |			        |	      	     	  | 
